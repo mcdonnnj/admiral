@@ -1,6 +1,6 @@
 # admiral 👩‍✈️🚢⚓️ #
 
-[![GitHub Build Status](https://github.com/cisagov/admiral/workflows/build/badge.svg)](https://github.com/cisagov/admiral/actions)
+[![GitHub Build Status](https://github.com/mcdonnnj/admiral/workflows/build/badge.svg)](https://github.com/mcdonnnj/admiral/actions)
 [![Coverage Status](https://coveralls.io/repos/github/cisagov/admiral/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/admiral?branch=develop)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/admiral.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/admiral/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/admiral.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/admiral/context:python)
