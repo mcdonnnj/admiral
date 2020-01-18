@@ -59,7 +59,7 @@ jobs:
       - name: Run tests
         env:
           RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: pytest
+        run: docker-compose -f docker-compose-dev.yml run test
       - name: Upload coverage report
         run: coveralls
         env:
